@@ -2,7 +2,7 @@
 title: How to Get Sitelinks to Appear in Google Search Results
 date: 2021-12-28T04:12:58.587Z
 description: Quick Add Post … testing
-image: img/blog-flavor_wheel.jpg
+image: img/screen-shot-2021-12-28-at-12.35.17-pm.png
 ---
 作者話語：
 
